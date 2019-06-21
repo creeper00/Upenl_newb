@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Upnel_newb/static/css/main.b80ac5d4.chunk.css",
-    "main.js": "/Upnel_newb/static/js/main.d3bf6ee0.chunk.js",
-    "main.js.map": "/Upnel_newb/static/js/main.d3bf6ee0.chunk.js.map",
-    "runtime~main.js": "/Upnel_newb/static/js/runtime~main.df4a6d87.js",
-    "runtime~main.js.map": "/Upnel_newb/static/js/runtime~main.df4a6d87.js.map",
-    "static/js/2.0e3f6a1a.chunk.js": "/Upnel_newb/static/js/2.0e3f6a1a.chunk.js",
-    "static/js/2.0e3f6a1a.chunk.js.map": "/Upnel_newb/static/js/2.0e3f6a1a.chunk.js.map",
-    "index.html": "/Upnel_newb/index.html",
-    "precache-manifest.4fdff2c8518519b031976b2bf99dab65.js": "/Upnel_newb/precache-manifest.4fdff2c8518519b031976b2bf99dab65.js",
-    "service-worker.js": "/Upnel_newb/service-worker.js",
-    "static/css/main.b80ac5d4.chunk.css.map": "/Upnel_newb/static/css/main.b80ac5d4.chunk.css.map"
+    "main.css": "/Upenl_newb/static/css/main.b80ac5d4.chunk.css",
+    "main.js": "/Upenl_newb/static/js/main.d3bf6ee0.chunk.js",
+    "main.js.map": "/Upenl_newb/static/js/main.d3bf6ee0.chunk.js.map",
+    "runtime~main.js": "/Upenl_newb/static/js/runtime~main.05a08d7a.js",
+    "runtime~main.js.map": "/Upenl_newb/static/js/runtime~main.05a08d7a.js.map",
+    "static/js/2.0e3f6a1a.chunk.js": "/Upenl_newb/static/js/2.0e3f6a1a.chunk.js",
+    "static/js/2.0e3f6a1a.chunk.js.map": "/Upenl_newb/static/js/2.0e3f6a1a.chunk.js.map",
+    "index.html": "/Upenl_newb/index.html",
+    "precache-manifest.67e17a9ba162b01f663e986509944dce.js": "/Upenl_newb/precache-manifest.67e17a9ba162b01f663e986509944dce.js",
+    "service-worker.js": "/Upenl_newb/service-worker.js",
+    "static/css/main.b80ac5d4.chunk.css.map": "/Upenl_newb/static/css/main.b80ac5d4.chunk.css.map"
   }
 }
